@@ -39,6 +39,15 @@ const person1 = createPerson("Musa Dawodu", 19, "Lekki, Lagos State")
  console.log(person1)
 
 
+ //question 4
+//  1.
+//  using the Object.assign() object. Example:
+//  const another = Object.assign({}, circle) copies the circle object in the empty another object
+//  2.
+//  using the spread opertor which involves the use of ... Example:
+//  const another = {...circle}    copies the circle object into the another object
+
+
  //question 5
  const presidentialCandidates = {
     AAC: 'Omoyele Sowore',
